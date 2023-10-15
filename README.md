@@ -1,3 +1,22 @@
+## ⭐ Shopping List with the feature of adding data and editing existing data and also with search list according to item data⭐
+
+<br>
+<br>
+
+## 📌 **Live Site URL:** <a href="https://shopping-list-jx3jdvgp0-dashnikhil.vercel.app/">**Visit Now** 🚀</a>
+<br>
+<br>
+
+## 📌 Tech Stack
+##  React Js
+![REACT](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg)
+<br>
+<br>
+
+## 📬 Connect With Me
+
+- **LinkedIn** - [Nikhil Kushwaha](https://www.linkedin.com/in/nikhil-kushwaha-275a72207/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
